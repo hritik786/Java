@@ -13,5 +13,7 @@ public class Main {
         for(String var: arrayList)
             System.out.println(var);
 
+        System.out.println("This is the new line added")
     }
+    
 }
